@@ -3,7 +3,7 @@ Matlab code for paper ``Robust Generalization despite Distribution Shift via Min
 
 We provide code for the three examples reported in the paper
 
-1) Synthetic dataset --- covariate shift adaptation ==> see subfolder called "Synthetic_data"
+1) Synthetic dataset --- covariate shift adaptation ==> see subfolder called "synthetic_data"
 
 2) Real world data --- clasification under sample bias ==> see subfolder called "hearth_disease"
 
