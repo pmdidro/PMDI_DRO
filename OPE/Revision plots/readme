@@ -1,1 +1,5 @@
-In this folder we present some new plots requrired by the reviewer. In particular we compare our method with two new benchmarks, the capped IWERM and with the doubly robust method
+In this folder we present some new plots requrired by the reviewer. 
+In particular we compare our method with two new benchmarks, the capped IWERM and with the doubly robust method.
+
+These are preliminary simulation results, which are work in progress. 
+We will beautify and edit the plots at a later stage and include it into our existing benchmarks
